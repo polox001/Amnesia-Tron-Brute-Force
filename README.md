@@ -14,8 +14,8 @@
   📱<a href="https://raw.githubusercontent.com/amnesia314/Amnesia-Tron-Brute-Force/main/tronbrut.apk" style="color: white; background-color: #08bf29; padding: 15px 32px; border-radius: 5px; text-decoration: none; font-size: 16px; margin-left: 10px;">Download for Android</a>📱
 </p>
     
-  <br>
-  💎 [Contact in Telegram](https://t.me/amnesia314) 💎
+<p align="center">
+  💎 <a href="https://t.me/amnesia49406" style="text-decoration: none; color: #0000FF;">Contact in Telegram</a> 💎
   <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 </p>
 
