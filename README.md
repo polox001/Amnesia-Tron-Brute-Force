@@ -35,4 +35,4 @@ This script is intended for educational purposes only. The creator of this scrip
 
 ## Reporting Issues
 
-If you encounter any issues while using this script, please report them [here](https://t.me/amnesia314).            
+If you encounter any issues while using this script, please report them [here](https://t.me/amnesia314).             
